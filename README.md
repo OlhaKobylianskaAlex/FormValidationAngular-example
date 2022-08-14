@@ -1,4 +1,10 @@
-# AppFormTrainee
+# Implementation of form validation in Angular using RxJS
+
+### Page from HEROKU: https://form-validation-angular-ex.herokuapp.com/
+
+<hr>
+
+## AppFormTrainee
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
