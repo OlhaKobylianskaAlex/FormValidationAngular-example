@@ -1,6 +1,6 @@
 # Implementation of form validation in Angular using RxJS
 
-### Page from HEROKU: https://form-validation-angular-ex.herokuapp.com/
+### Page from Firebase: https://formvalidationangular-example.web.app/
 
 <hr>
 
